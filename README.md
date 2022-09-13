@@ -1,4 +1,4 @@
-## Olá eu sou o Gruilherme Fadel
+## Olá eu sou o Guilherme Fadel
 <div align="center">
   <a href="https://github.com/Guilherme-Fadel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Fadel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
